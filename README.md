@@ -25,6 +25,9 @@ Currently learning:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhaan2875&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=404040" />
+  <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
+</p>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
 </p>
