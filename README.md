@@ -24,11 +24,8 @@ Currently learning:
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
 </p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farhaan2875&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=404040" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
-</p>
+
 [![Farhaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ## Activity Graph
