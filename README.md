@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=40&duration=1500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=640&lines=Backend+Developer;Building+with+Spring+Boot;Learning+AI+%26+ML;Always+Shipping+Projects" alt="Typing SVG" 
 </p>
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Farhaan&fontColor=ffffff)
 
 
 I'm Farhaan
