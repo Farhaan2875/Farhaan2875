@@ -18,5 +18,7 @@ Currently learning:
 - PostgreSQL
 - DSA
 - AI/ML
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,c,git,github,docker,linux,vscode"/>
+</p>
 
