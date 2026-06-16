@@ -38,3 +38,7 @@ Currently learning:
 ## Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=404040&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+## Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9ca3af&line=ffffff&point=ffffff&area=true&area_color=1f2937&hide_border=true)](https://github.com/YOUR_USERNAME)
