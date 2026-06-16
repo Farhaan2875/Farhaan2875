@@ -20,9 +20,6 @@ Currently learning:
 - AI/ML
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farhaan2875&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=404040" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Farhaan2875&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&border=404040" />
 </p>
 
