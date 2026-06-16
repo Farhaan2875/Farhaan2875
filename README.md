@@ -4,9 +4,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=40&duration=1500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=640&lines=Backend+Developer;Building+with+Spring+Boot;Learning+AI+%26+ML;Always+Shipping+Projects" alt="Typing SVG" 
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%24+whoami;Farhaan;Backend+Developer;Spring+Boot+Enthusiast;AI+Explorer"/>
-</p>
+
 
 I'm Farhaan
 
