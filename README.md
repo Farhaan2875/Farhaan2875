@@ -22,4 +22,8 @@ Currently learning:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,git,github,linux,idea,postman,vscode" />
 </p>
+## GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Farhaan2875&show_icons=true&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&theme=transparent)
