@@ -25,6 +25,4 @@ Currently learning:
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=d1d5db&point=ffffff&area=true&area_color=111827&hide_border=true&title_color=ffffff)](https://github.com/Farhaan2875)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Farhaan2875)
-
 
