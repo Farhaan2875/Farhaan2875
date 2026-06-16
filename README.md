@@ -24,8 +24,4 @@ Currently learning:
 </p>
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Farhaan2875&show_icons=true&theme=transparent)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&theme=transparent)
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent)
