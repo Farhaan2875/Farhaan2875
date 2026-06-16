@@ -28,3 +28,7 @@ Currently learning:
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Farhaan2875&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&border=404040" />
+</p>
