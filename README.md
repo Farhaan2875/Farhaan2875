@@ -32,3 +32,5 @@ Currently learning:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Farhaan2875&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&border=404040" />
 </p>
+
+[![Farhaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
