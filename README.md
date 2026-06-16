@@ -21,7 +21,5 @@ Currently learning:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,c,git,github,linux,vscode,idea,postman" />
-  <br><br>
-  <img src="https://img.shields.io/badge/DBeaver-DC2626?style=for-the-badge" />
 </p>
 
