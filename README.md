@@ -18,7 +18,10 @@ Currently learning:
 - PostgreSQL
 - DSA
 - AI/ML
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,c,git,github,docker,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,c,git,github,linux,vscode,idea,postman" />
+  <br><br>
+  <img src="https://img.shields.io/badge/DBeaver-DC2626?style=for-the-badge" />
 </p>
 
