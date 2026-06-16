@@ -20,6 +20,6 @@ Currently learning:
 - AI/ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,c,git,github,linux,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,python,git,github,linux,idea,postman,vscode" />
 </p>
 
