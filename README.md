@@ -29,7 +29,7 @@ Currently learning:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875E&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
 </p>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhaan2875&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=404040" />
