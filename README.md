@@ -22,8 +22,7 @@ Currently learning:
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farhaan2875&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=404040" />
 </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=9ca3af&line=ffffff&point=ffffff&area=true&area_color=1f2937&hide_border=true)](https://github.com/Farhaan2875)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=d1d5db&point=ffffff&area=true&area_color=111827&hide_border=true&title_color=ffffff)](https://github.com/Farhaan2875)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhaan2875&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Farhaan2875)
 
